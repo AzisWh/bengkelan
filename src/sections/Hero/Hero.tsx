@@ -3,7 +3,7 @@ import cover from "../../assets/images/background-bengkel.png";
 
 const Hero = () => {
   return (
-    <div className="bg-gray-100">
+    <div className="bg-gray-100" id="hero">
       <section className="relative flex items-center min-h-screen px-4 py-48 overflow-hidden bg-gray-600 cover bg-soft-gray-gradient sm:px-8 lg:px-16 xl:px-40 2xl:px-64">
         <div className="absolute top-0 left-0 z-0 w-full h-full">
           <img

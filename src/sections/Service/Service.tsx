@@ -4,7 +4,7 @@ import { IconContext } from "react-icons";
 
 const Service = () => {
   return (
-    <div className="max-w-6xl px-4 py-16 mx-auto service-section">
+    <div className="max-w-6xl px-4 py-16 mx-auto service-section" id="service">
       <div className="flex flex-col mb-8 lg:flex-row lg:-mx-8">
         <div className="w-full lg:w-1/2 lg:px-8">
           <h2 className="text-sm font-semibold tracking-widest uppercase">
