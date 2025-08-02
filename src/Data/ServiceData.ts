@@ -1,4 +1,8 @@
-import mobil from "../assets/images/background-bengkel.png"
+// import mobil from "../assets/images/background-bengkel.png"
+import service1 from '../assets/images/IMG_6102.png'
+import service2 from '../assets/images/IMG_6016.png'
+import service3 from '../assets/images/IMG_6017.png'
+import service4 from '../assets/images/IMG_6018.png'
 
 export const serviceData = [
     {
@@ -8,7 +12,7 @@ export const serviceData = [
       excerpt:
         "Regular engine tune-ups and oil changes to keep your car running smoothly and efficiently.",
       image:
-        mobil,
+        service1,
     },
     {
       id: 2,
@@ -17,7 +21,7 @@ export const serviceData = [
       excerpt:
         "From brake pad replacements to full system repairs, ensuring your safety on the road.",
       image:
-      mobil,
+      service2,
     },
     {
       id: 3,
@@ -26,7 +30,7 @@ export const serviceData = [
       excerpt:
         "Professional painting and dent removal to restore your car’s original look and shine.",
       image:
-      mobil,
+      service3,
     },
     {
       id: 4,
@@ -35,34 +39,8 @@ export const serviceData = [
       excerpt:
         "High-quality tire installation, rotation, and balancing for better performance and safety.",
       image:
-      mobil,
+      service4,
     },
-    {
-      id: 5,
-      title: "Car Air Conditioning Service",
-      date: "Jan 29, 2025",
-      excerpt:
-        "Complete A/C inspection, cleaning, and refill to keep your cabin cool and fresh.",
-      image:
-      mobil,
-    },
-    {
-      id: 6,
-      title: "Spare Parts Replacement",
-      date: "Jan 29, 2025",
-      excerpt:
-        "Original spare parts replacement for durability and long-lasting performance.",
-      image:
-      mobil,
-    },
-    {
-      id: 7,
-      title: "Car Detailing & Cleaning",
-      date: "Jan 29, 2025",
-      excerpt:
-        "Interior and exterior deep cleaning, polishing, and detailing for a showroom finish.",
-      image:
-      mobil,
-    },
+    
   ];
   
