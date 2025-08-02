@@ -1,37 +1,18 @@
+// import logo from "../../assets/images/DG_BODYWORKS-logowhite.png";
+
 const Footer = () => {
   return (
     <footer className="relative px-4 py-12 text-white bg-gray-800 sm:px-8 lg:px-16 xl:px-40 2xl:px-64 lg:py-24">
       <div className="flex flex-col md:flex-row">
         <div className="w-full lg:w-2/6 lg:mx-4 lg:pr-8">
-          <h3 className="text-2xl font-bold">Bengkelalpinos</h3>
-          <p className="text-gray-400">
-            Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-            nonumy.
+          <h3 className="text-2xl font-bold">
+            DEEP<span className="font-light">GLOSS</span>
+          </h3>
+          <p className="text-gray-400 mt-2">
+            Your trusted auto repair and bodyworks partner. From routine
+            maintenance to full restorations, we make sure your car looks and
+            runs its best.
           </p>
-          <form className="flex items-center mt-6">
-            <div className="w-full">
-              <label
-                className="block mb-2 text-xs font-bold tracking-wide text-gray-600 uppercase"
-                htmlFor="email-subscribe"
-              >
-                Subscribe for our Newsletter
-              </label>
-              <div className="relative">
-                <input
-                  className="block w-full px-4 py-4 leading-tight text-gray-700 bg-gray-200 border border-gray-200 rounded appearance-none focus:outline-none focus:bg-white focus:border-gray-500"
-                  type="email"
-                  id="email-subscribe"
-                  placeholder="Enter Your Email Address"
-                />
-                <button
-                  type="submit"
-                  className="absolute top-0 right-0 px-4 py-2 my-2 mr-2 text-sm font-bold text-white bg-teal-500 rounded hover:bg-teal-400"
-                >
-                  Subscribe
-                </button>
-              </div>
-            </div>
-          </form>
         </div>
         <div className="w-full mt-8 lg:w-1/6 lg:mt-0 lg:mx-4">
           <h5 className="font-semibold tracking-wider text-gray-500 uppercase">
