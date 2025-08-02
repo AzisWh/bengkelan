@@ -18,8 +18,8 @@ const Hero = () => {
               Peak Performance Starts with the Right Service.
             </h1>
             <p className="mt-4 leading-snug text-white text-x md:text-2xl">
-              Welcome to <b>BengkelAlpinos</b>, where trusted mechanics and
-              expert care keep your vehicle running smoothly.
+              Welcome to <b>DeepGloss</b>, where trusted mechanics and expert
+              care keep your vehicle running smoothly.
             </p>
             <a
               href="#"

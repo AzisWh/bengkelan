@@ -7,16 +7,16 @@ const About = () => {
       <div className="flex flex-col mb-8 lg:flex-row lg:-mx-8">
         <div className="w-full lg:w-1/2 lg:px-8">
           <h2 className="text-sm font-semibold tracking-widest uppercase">
-            BengkelAlpinos
+            DeepGloss
           </h2>
           <h2 className="mt-4 text-3xl font-bold leading-tight">
-            Welcome to BengkelAlpinos – Your Trusted Car Workshop
+            Welcome to DeepGloss – Your Trusted Car Workshop
           </h2>
           <p className="mt-4 text-lg font-semibold">
             Quality Auto Care and Reliable Service for Every Journey
           </p>
           <p className="mt-2 leading-relaxed">
-            At BengkelAlpinos, we are committed to keeping your car in top
+            At DeepGloss, we are committed to keeping your car in top
             condition. From routine maintenance to major repairs, our skilled
             team provides professional service with modern equipment and genuine
             parts. Drive with confidence, knowing your vehicle is in the right
@@ -40,7 +40,7 @@ const About = () => {
                 Complete Car Care in One Place
               </h4>
               <p className="mt-2 leading-relaxed">
-                At BengkelAlpinos, we provide all the services your car needs
+                At DeepGloss, we provide all the services your car needs
                 under one roof – from routine maintenance and engine tune‑ups to
                 bodywork, painting, and spare parts replacement. Our modern
                 workshop and expert mechanics ensure your car always performs at
@@ -67,7 +67,7 @@ const About = () => {
                 Your car’s needs, schedule, and budget are always our priority.
                 Whether it’s regular service or urgent repair, our friendly team
                 and transparent process will give you peace of mind. At
-                BengkelAlpinos, we treat every car as if it were our own.
+                DeepGloss, we treat every car as if it were our own.
               </p>
             </div>
           </div>
